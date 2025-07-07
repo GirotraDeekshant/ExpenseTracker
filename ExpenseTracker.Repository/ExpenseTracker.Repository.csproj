@@ -10,4 +10,14 @@
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ExpenseTracker.Business\ExpenseTracker.Business.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Common">
+      <HintPath>..\package\Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

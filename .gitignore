@@ -8,3 +8,5 @@
 /ExpenseTracker.Common/obj
 /ExpenseTracker.Repository/obj
 /ExpenseTracker.Services/obj
+/ExpenseTracker.Repository/bin/Debug/net8.0
+/ExpenseTracker.Services/bin/Debug/net8.0

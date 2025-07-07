@@ -1,0 +1,12 @@
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\bin\Debug\net8.0\ExpenseTracker.Business.deps.json
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\bin\Debug\net8.0\ExpenseTracker.Business.dll
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\bin\Debug\net8.0\ExpenseTracker.Business.pdb
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ExpenseTracker.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ExpenseTracker.Business.AssemblyInfoInputs.cache
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ExpenseTracker.Business.AssemblyInfo.cs
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ExpenseTracker.Business.csproj.CoreCompileInputs.cache
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ExpenseTracker.Business.sourcelink.json
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ExpenseTracker.Business.dll
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\refint\ExpenseTracker.Business.dll
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ExpenseTracker.Business.pdb
+D:\SelfProject\ExpenseTracker\ExpenseTracker.Business\obj\Debug\net8.0\ref\ExpenseTracker.Business.dll

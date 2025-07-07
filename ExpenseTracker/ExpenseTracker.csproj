@@ -14,7 +14,20 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Serilog" Version="4.3.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpenseTracker.Business\ExpenseTracker.Business.csproj" />
+    <ProjectReference Include="..\ExpenseTracker.Repository\ExpenseTracker.Repository.csproj" />
+    <ProjectReference Include="..\ExpenseTracker.Services\ExpenseTracker.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Common">
+      <HintPath>..\package\Common.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
